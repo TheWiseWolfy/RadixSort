@@ -1,0 +1,7 @@
+﻿  RadixSort.cpp
+  Source.cpp
+C:\Users\Gabriel\Desktop\Visual Studio\Laborator SD\Tema Problema 1\Tema Problema 1\Source.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Gabriel\Desktop\Visual Studio\Laborator SD\Tema Problema 1\Tema Problema 1\Source.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Gabriel\Desktop\Visual Studio\Laborator SD\Tema Problema 1\Tema Problema 1\Source.cpp(15,30): warning C4101: 'sizeCurrent': unreferenced local variable
+  Generating Code...
+  Tema Problema 1.vcxproj -> C:\Users\Gabriel\Desktop\Visual Studio\Laborator SD\Tema Problema 1\Debug\Tema Problema 1.exe
